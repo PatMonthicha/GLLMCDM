@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated GLLMCDM paper."
+title: "Learning to Assess Learner Skills with LLM-Based Scoring in Cognitive Diagnostic Models"
+type: software
+authors:
+  - family-names: Anunak
+    given-names: Monthicha
+version: 1.0.0
+date-released: 2026-09-30

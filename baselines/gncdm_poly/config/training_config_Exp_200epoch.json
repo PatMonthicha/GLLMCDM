@@ -1,0 +1,9 @@
+{
+    "device": "cpu",
+    "n_epoch": 200,
+    "lr": 0.0001,
+    "alpha": 0.5, 
+    "batch_size": 8,
+    "shuffle": true,
+    "num_workers": 4
+}

@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated training artifacts
+artifacts/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+# Private course data are not distributed with this repository.
+data/private/
+

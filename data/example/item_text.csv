@@ -1,0 +1,5 @@
+item_id,item_text
+0,Write a function that returns the sum of two integers.
+1,Write a loop that counts the even values in a list.
+2,Write a function that returns the largest value in a non-empty list.
+3,Write a program that reads integers and prints their average.
